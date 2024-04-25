@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner{
+	height:380px;
+	width:100%;
+	background:rgba(207,70,70,1);
+	text-align:center;}
